@@ -4,7 +4,8 @@
 
 ### Supported Devices
 
-- DCAM305  FirmwareVersion: 20191108-b27 and before
+- DCAM305      
+    FirmwareVersion: 20191108-b27 and before
 
 ### Resources
 
