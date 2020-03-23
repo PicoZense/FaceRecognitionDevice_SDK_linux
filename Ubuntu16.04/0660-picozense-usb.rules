@@ -1,0 +1,2 @@
+SUBSYSTEMS=="usb", ATTRS{idProduct}=="0103", ATTRS{idVendor}=="2d40", MODE="0660", SYMLINK+="picozense-hid", GROUP="plugdev"
+

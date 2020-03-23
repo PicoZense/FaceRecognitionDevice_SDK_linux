@@ -1,0 +1,19 @@
+﻿﻿V3.0.0.7
+1. Fix some bug
+
+﻿﻿V3.0.0.6
+1. Fix some bug
+
+﻿﻿V3.0.0.5
+1. Fix some bug
+
+V3.0.0.4
+1. Fix some bug
+
+V3.0.0.3
+1. Optimize SDK code
+2. Optimize	SDK demo
+3. Fix some bug
+
+V3.0.0.0
+1.Refactoring version 
